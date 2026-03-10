@@ -14,7 +14,7 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 ## Key Insights
 1. Trend Revenue dari waktu ke waktu
 2. Top 3 product 
-3. TOP 3 city 
+3. Top 3 city 
 4. Distribusi harga product
 5. Korelasi antara hubungan delivery dengan review score
 6. Distribusi payment menggunakan 
@@ -26,4 +26,5 @@ Olist E-commerce Dataset (Kaggle)
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
