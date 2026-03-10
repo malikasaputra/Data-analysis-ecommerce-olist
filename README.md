@@ -20,13 +20,15 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 6. Distribusi payment menggunakan 
 
 ## Dataset
-Olist E-commerce Dataset (Kaggle)
+E-commerce dataset by Olist (SQLite) from Kaggle
+
 https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
 ## Project Structure
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
