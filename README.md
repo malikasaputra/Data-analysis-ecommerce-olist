@@ -1,6 +1,8 @@
-# E-commerce Data Analysis (Olist)
+## E-commerce Data Analysis (Olist)
 
 ## Overview
+Olist is a Brazilian e-commerce platform with multiple sellers.
+
 This project analyzes an e-commerce dataset from Olist to understand sales performance, customer behavior, and product trends.
 
 ## Tools Used
@@ -10,6 +12,20 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 * Pandas
 * Matplotlib
 * Seaborn
+
+## Business Questions
+
+* sales & revenue
+1. What is the total revenue trend over time?
+2. Which products sell the most?
+3. Which cities have the highest revenue?
+
+* customers
+4. Does delivery time affect the review score?
+5. Which customers give the highest review ratings?
+
+* payments
+6. Which payment method is used most often?
 
 ## Key Insights
 1. Revenue Trend Over Time
@@ -28,6 +44,7 @@ https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqli
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
