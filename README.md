@@ -5,13 +5,18 @@ Olist is a Brazilian e-commerce platform with multiple sellers.
 
 This project analyzes an e-commerce dataset from Olist to understand sales performance, customer behavior, and product trends.
 
-## ⚙️ Tools Used
+## ⚙️ Tools & Library
 * Visual Studio Code
 * Python
 * SQLite
 * Pandas
 * Matplotlib
 * Seaborn
+
+## 📌 Key Features
+SQL Querying: * Extracted detailed insights with multiple levels of complexity (Basic, Intermediate, and Advanced queries).
+Data Analysis: * Used Python to compute additional metrics like moving averages, year-over-year growth, and customer retention rates.
+Visualizations: * Presented key business insights through compelling visualizations (bar plots, line graphs, heatmaps) to enhance data understanding and decision-making.
 
 ## 🎯 Business Questions
 1. What is the total revenue trend over time?
@@ -30,14 +35,15 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 6. Payment Method Distribution
 
 ## 📊 Dataset
-E-commerce dataset by Olist (SQLite) from Kaggle
-
-https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
+Source: A e-commerce dataset by Olist from Kaggle.
+Format: SQLIite.
+Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
 ## 📂 Project Structure
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
